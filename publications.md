@@ -1,0 +1,62 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+
+Publications
+(co)first, (co)senior or corresponding authorships are marked with an asterisk *
+
+<ol reversed>
+<li> Valdez-Correcher et al (submitted to Global Ecology and Biogeography) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe.</li>
+<li> Avanzi et al (accepted in Heredity) Individual reproductive success in Norway spruce natural populations depends on growth rate, age and sensitivity to temperature.</li>
+<li> Solé-Medina et al (in review in AoB PLANTS) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula).</li>
+<li> Castagneyrol et al (accepted in Citizen Science: Theory and practice) Can School Children Support Ecological Research? Lessons from the ‘Oak Bodyguard’ Citizen Science Project.</li>
+ <li> Bittner et al (in review in Journal of Paleolimnology) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications.</li>
+ <li> Estravis-Barcala et al (2020) Molecular bases of responses to abiotic stress in trees.</li>
+ <li> Martínez-Sancho et al (2020) The GenTree Dendroecological Collection, tree-ring and wood density data from seven tree species across Europe.</li>
+ <li> *Opgenoorth et al (in review in BMC Evolutionary Biology) Rewinding the Molecular Clock in the genus Carabus: Revisiting Andujar et al. 2012.</li>
+ <li> Li et al (in review in Frontiers in Plant Science) Molecular phylogeography and evolutionary history of the endemic species Corydalis hendersonii on the Qinghai-Tibetan Plateau inferred from chloroplast DNA and ITS sequence variation</li>
+ <li> *Ossendorf et al (2019) Middle Stone Age foragers resided in high elevations of the glaciated Bale Mountains, Ethiopia. Science 365 (6453) 583-587.</li>
+ <li> Friess et al (2019) Introducing Nature 4.0: A sensor network for environmental monitoring in the Marburg Open Forest. Biodiversity Information Science and Standards 3, e36389.</li>
+ <li> Mosca et al (2019) A reference genome sequence for the European silver fir (Abies alba): a community-generated genomic resource. Genes, Genomes, Genetics. https://doi.org/10.1534/g3.119.400083</li>
+ <li> Friess et al (2019) Arthropod communities in fungal fruitbodies are weakly structured by climate and biogeography across European beech forest. Diversity and Distribution, 1-14. doi: 10.1111/ddi.12882</li>
+ <li> Avanzi et al (2019) Disentangling the effects of spatial proximity and genetic similarity on individual growth performances in Norway spruce natural populations. Science of the Total environment.</li>
+ <li> *Heer et al (2018) Detection of somatic epigenetic variation in Norway spruce via targeted bisulfite sequencing. Ecology and Evolution.</li>
+ <li> *Miehe et al (2018) The Kobresia pygmaea ecosystem of the Tibetan Highlands: Origin, functioning and degradation of the world's largest pastoral alpine ecosystem. Science of the Total environment. doi: 10.1016/j.scitotenv.2018.08.164</li>
+ <li> Ammer et al (2018) Key ecological research questions for Central European forests. Basic and Applied Ecology. doi: 10.1016/j.baae.2018.07.006</li>
+ <li> Karki et al (2018) IPBES - Chapter 1 - Setting the Scene: Biodiversity and Ecosystem Services in the Asia Pacific Region. IPBES Secretariat, Bonn, Germany.</li>
+ <li> *Heer et al (2018) Linking dendroecology and association genetics: Stress responses archived in tree rings associate with SNP genotypes in Abies abla (Mill.). Molecular Ecology. doi: 10.1111/mec.14538</li>
+ <li> *Heer et al (2018) The diversifying field of plant epigenetics. New Phytologist 217 (3): 988-992.</li>
+ <li> Richards et al (2017) Ecological plant epigenetics: Evidence from model and non-model species, and the way forward. Ecology Letters 20 (12): 1576-1590. doi: 10.1111/ele.12858</li>
+ <li> *Schmidt et al (2017) Mass elevation and lee effect override latitudinal effects in determining the distribution ranges of species: Ground beetles from the Himalaya-Tibet Orogen. PLoSone 12(3): e0172939.</li>
+ <li> *Hof et al (2017) It's not (all) about the money - supporting IPBES through challenging times. Frontiers of Biogeography 9 (1).</li>
+ <li> Brändle et al (2017) Genetic diversity in the alpine flatworm Crenobia alpina. Webecology 17(29), 29.</li>
+ <li> *Wan et al (2016) The Quaternary evolutionary history, potential distribution dynamics and conservation implications for a Qinghai-Tibet Plateau endemic herbaceous perennial, Anisodus tanguticus (Solanacae). Ecology and Evolution 8(2), 105-107. </li>
+ <li> *Heer et al (2016) Detection of SNPs based on transcriptome sequencing in Norway spruce (Picea abies (L.) Karst). Conservation Genetics Resources. DOI: 10.1007/s12686-016-0520-4</li>
+ <li> *Opgenoorth & Hotes (2016) IPBES is in the books: Pollination and scenario assessments are two steps to guiding policy makers in the global biodiversity crisis. Frontiers in Biogeography 8 (1).</li>
+ <li> Schmidt et al (2015) Speciation, uplift, and climate change. – In: Miehe, G. & Pendry, C. (eds.): Nepal. An introduction to the natural history, ecology and human environment in the Himalayas. A companion to the Flora of Nepal. – Royal Botanic Garden Edinburgh.
+ <li> Shang et al (2015) Evolutionary origin and demographic history of an ancient conifer (Juniperus microsperma) in the Qinghai-Tibetan Plateau. Scientific Reports 5.</li>
+ <li> *Gossner et al (2015) Where is the extended phenotype in the wild? The community composition of arthropods on mature oak trees does not depend on the oak genotype. PLoSone 10 (1), e0115733.</li>
+ <li> *Müller & Opgenoorth (2014) On the gap between science and conservation implementation - a national park perspective. Basic and Applied Ecology 15 (2014), 373-378.</li>
+ <li> Müller et al (2014) Relative heart size but not body size within population of two rodent species increases with elevation: reviving Hesse's rule. Journal of Biogeography 41 (12), 2211-2220.</li>
+ <li> *Hotes & Opgenoorth (2014) Trust and Control at the Science-Policy Interface in IPBES. BioScience, biu019.</li>
+ <li> *Opgenoorth et al (2014) IPBES: Biodiversity panel should play by rules. Nature 506, 159.</li>
+ <li> *Miehe et al (2014) How old is the human footprint in the world's largest alpine ecosystem? A review of multiproxy records from the Tibetan Plateau from the ecologists' viewpoint. Quaternary Science Reviews 86, 190-209.</li>
+ <li> *Opgenoorth & Faith (2013) The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), up and walking. Frontiers of Biogeography 5 (4), 207-211.</li>
+ <li> *Bacht et al (2013) Are Ring Ouzel (Turdus torquatus) populations of the low mountain ranges remnants of a broader distribution in the past? Journal of Ornithology 154 (1), 231-237.</li>
+ <li> *Miehe & Opgenoorth (2013) The End of the Forest on Top of the World. German Research 2/2013: 22–25.</li>
+ <li> Liu et al (2012) Molecular bases for parallel evolution of translucent bracts in an alpine “glasshouse” plant Rheum alexandrae (Polygonaceae). Journal of Systematics and Evolution 51 (2), 134-141.</li>
+ <li> *Schmidt et al (2012) Into the Himalayan Exile: The Phylogeography of the Ground Beetle Ethira clade Supports the Tibetan Origin of Forest-Dwelling Himalayan Species Groups. PLoSone 7 (9), e45482.</li>
+ <li> *Zou et al (2012) Molecular phylogeography and evolutionary history of Picea likiangensis in the Qinghai-Tibetan Plateau inferred from mitochondrial and chloroplast DNA sequence variation. Journal of Systematics and Evolution 50 (4), 341-350.</li>
+ <li> *Schmidt et al (2011) Neoendemic ground beetles and private tree haplotypes: two independent proxies attest moderate LGM summer temperature depression of 3 to 4K for the southern Tibetan Plateau. Quaternary Science Reviews 30, 1918-1925. Invited paper.</li>
+ <li> Michalczyk et al (2010) Genetic support for periglacial survival of juniper populations in Central Europe. The Holocene 20 (6), 887-994.</li>
+ <li> *Opgenoorth et al (2010) Tree endurance on the Tibetan Plateau marks the world's highest known tree line of the Last Glacial Maximum. New Phytologist, 185 (1), 332-342. Paper was highlighted in the editorial section of that New Phytologist edition.</li>
+ <li> *Opgenoorth (2009) Identification and characterization of nuclear microsatellites in Juniperus tibetica using next generation sequencing. Conservation Genetics Resources 1 (1).</li>
+ <li> Kaiser et al (2009) Charcoal and fossil wood from palaeosols, sediments and artificial structures indicating Late Holocene woodland decline in southern Tibet (China). Quaternary Science Reviews, 28 (15-16), 1539-1554.</li>
+ <li> Miehe et al (2007) An inventory of forest relicts in the pastures of Southern Tibet (Xizang A.R.,China). Plant Ecology, 194 (2), 157-177.</li>
+ <li> Miehe et al (2007) Mountain forest islands and Holocene environmental changes in Central Asia: A case study from the southern Gobi Altay, Mongolia. Palaeogeography, Palaeoclimatology, Palaeoecology, 250 (1-4), 150-166. </li>
+ <li> *Opgenoorth et al (2005) Isolated Birch and Willow Forests in the Govi Gurvan Sayhan National Park. Erforschung biologischer Ressourcen der Mongolei, 9, 247-258.</li>
+ <li> Cermak et al (2005) Isolated Mountain Forests in Central Asian Deserts. A Case Study from the Govi Altay, Mongolia. In: Broll, G. & Keplin, B.(Hrsg.) Mountain Ecosystems. Springer. 253-273.</li>
+ <li> *Cermak & Opgenoorth (2003) Dynamics of forest islands in the Govi Altay: microclimate and human impact. Berliner Paläobiologische Abhandlungen, 2: 28-29.</li>
