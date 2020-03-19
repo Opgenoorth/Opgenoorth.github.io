@@ -10,19 +10,19 @@ Publications
 
 <ol reversed>
 <li> Valdez-Correcher et al (submitted to Global Ecology and Biogeography) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe.</li>
-<li> Avanzi et al (accepted in Heredity) Individual reproductive success in Norway spruce natural populations depends on growth rate, age and sensitivity to temperature.</li>
+<li> Li et al (in review in Frontiers in Plant Science) Molecular phylogeography and evolutionary history of the endemic species Corydalis hendersonii on the Qinghai-Tibetan Plateau inferred from chloroplast DNA and ITS sequence variation</li>
 <li> Solé-Medina et al (in review in AoB PLANTS) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula).</li>
+<li> Bittner et al (in review in Journal of Paleolimnology) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications.</li>
 <li> Castagneyrol et al (accepted in Citizen Science: Theory and practice) Can School Children Support Ecological Research? Lessons from the ‘Oak Bodyguard’ Citizen Science Project.</li>
- <li> Bittner et al (in review in Journal of Paleolimnology) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications.</li>
- <li> Estravis-Barcala et al (2020) Molecular bases of responses to abiotic stress in trees.</li>
- <li> Martínez-Sancho et al (2020) The GenTree Dendroecological Collection, tree-ring and wood density data from seven tree species across Europe.</li>
- <li> *Opgenoorth et al (in review in BMC Evolutionary Biology) Rewinding the Molecular Clock in the genus Carabus: Revisiting Andujar et al. 2012.</li>
- <li> Li et al (in review in Frontiers in Plant Science) Molecular phylogeography and evolutionary history of the endemic species Corydalis hendersonii on the Qinghai-Tibetan Plateau inferred from chloroplast DNA and ITS sequence variation</li>
- <li> *Ossendorf et al (2019) Middle Stone Age foragers resided in high elevations of the glaciated Bale Mountains, Ethiopia. Science 365 (6453) 583-587.</li>
- <li> Friess et al (2019) Introducing Nature 4.0: A sensor network for environmental monitoring in the Marburg Open Forest. Biodiversity Information Science and Standards 3, e36389.</li>
- <li> Mosca et al (2019) A reference genome sequence for the European silver fir (Abies alba): a community-generated genomic resource. Genes, Genomes, Genetics. https://doi.org/10.1534/g3.119.400083</li>
- <li> Friess et al (2019) Arthropod communities in fungal fruitbodies are weakly structured by climate and biogeography across European beech forest. Diversity and Distribution, 1-14. doi: 10.1111/ddi.12882</li>
- <li> Avanzi et al (2019) Disentangling the effects of spatial proximity and genetic similarity on individual growth performances in Norway spruce natural populations. Science of the Total environment.</li>
+<li> *Opgenoorth et al (2020) Rewinding the Molecular Clock in the genus Carabus: Revisiting Andujar et al. 2012.Biorxiv, doi: 10.1101/2020.02.19.912543</li>
+<li> Avanzi et al (2020) Individual reproductive success in Norway spruce natural populations depends on growth rate, age and sensitivity to temperature. Heredity, doi:10.1038/s41437-020-0305-0</li>
+<li> Martínez-Sancho et al (2020) The GenTree Dendroecological Collection, tree-ring and wood density data from seven tree species across Europe. Scientific Data 7 (1) 1-7.</li>
+<li> *Ossendorf et al (2019) Middle Stone Age foragers resided in high elevations of the glaciated Bale Mountains, Ethiopia. Science 365 (6453) 583-587.</li>
+<li> Estravis-Barcala et al (2019) Molecular bases of responses to abiotic stress in trees. Journal of Experimental Botnay, erz532, doi: 10.1093/jxb/erz532</li>
+<li> Friess et al (2019) Introducing Nature 4.0: A sensor network for environmental monitoring in the Marburg Open Forest. Biodiversity Information Science and Standards 3, e36389.</li>
+<li> Mosca et al (2019) A reference genome sequence for the European silver fir (Abies alba): a community-generated genomic resource. Genes, Genomes, Genetics. https://doi.org/10.1534/g3.119.400083</li>
+<li> Friess et al (2019) Arthropod communities in fungal fruitbodies are weakly structured by climate and biogeography across European beech forest. Diversity and Distribution, 1-14. doi: 10.1111/ddi.12882</li>
+<li> Avanzi et al (2019) Disentangling the effects of spatial proximity and genetic similarity on individual growth performances in Norway spruce natural populations. Science of the Total environment.</li>
  <li> *Heer et al (2018) Detection of somatic epigenetic variation in Norway spruce via targeted bisulfite sequencing. Ecology and Evolution.</li>
  <li> *Miehe et al (2018) The Kobresia pygmaea ecosystem of the Tibetan Highlands: Origin, functioning and degradation of the world's largest pastoral alpine ecosystem. Science of the Total environment. doi: 10.1016/j.scitotenv.2018.08.164</li>
  <li> Ammer et al (2018) Key ecological research questions for Central European forests. Basic and Applied Ecology. doi: 10.1016/j.baae.2018.07.006</li>
