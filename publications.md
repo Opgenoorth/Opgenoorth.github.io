@@ -9,13 +9,16 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
+<li> *Opgenoorth et al (submitted to Scientific Data) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species.</li>
+<li> Benavides et al (submitted to Scientific Data) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.</li>
 <li> Valdez-Correcher et al (submitted to Global Ecology and Biogeography) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe.</li>
-<li> Li et al (in review in Frontiers in Plant Science) Molecular phylogeography and evolutionary history of the endemic species Corydalis hendersonii on the Qinghai-Tibetan Plateau inferred from chloroplast DNA and ITS sequence variation</li>
 <li> Solé-Medina et al (in review in AoB PLANTS) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula).</li>
 <li> Bittner et al (in review in Journal of Paleolimnology) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications.</li>
-<li> Castagneyrol et al (accepted in Citizen Science: Theory and practice) Can School Children Support Ecological Research? Lessons from the ‘Oak Bodyguard’ Citizen Science Project.</li>
 <li> *Opgenoorth et al (2020) Rewinding the Molecular Clock in the genus Carabus: Revisiting Andujar et al. 2012.Biorxiv, doi: 10.1101/2020.02.19.912543</li>
-<li> Avanzi et al (2020) Individual reproductive success in Norway spruce natural populations depends on growth rate, age and sensitivity to temperature. Heredity, doi:10.1038/s41437-020-0305-0</li>
+<li> Castagneyrol et al (2020) Can School Children Support Ecological Research? Lessons from the ‘Oak Bodyguard’ Citizen Science Project. Citizen Science: Theory and practice 5(1): 10, pp. 1–11. DOI: https://doi.org/10.5334/cstp.267</li>
+<li> Avanzi et al (2020) Individual reproductive success in Norway spruce natural populations depends on growth rate, age and sensitivity to temperature. 
+Heredity, doi:10.1038/s41437-020-0305-0</li>
+<li> Li et al (2020) Molecular phylogeography and evolutionary history of the endemic species Corydalis hendersonii on the Qinghai-Tibetan Plateau inferred from chloroplast DNA and ITS sequence variation. Frontiers in Plant Science 11, 436.</li>
 <li> Martínez-Sancho et al (2020) The GenTree Dendroecological Collection, tree-ring and wood density data from seven tree species across Europe. Scientific Data 7 (1) 1-7.</li>
 <li> *Ossendorf et al (2019) Middle Stone Age foragers resided in high elevations of the glaciated Bale Mountains, Ethiopia. Science 365 (6453) 583-587.</li>
 <li> Estravis-Barcala et al (2019) Molecular bases of responses to abiotic stress in trees. Journal of Experimental Botnay, erz532, doi: 10.1093/jxb/erz532</li>
