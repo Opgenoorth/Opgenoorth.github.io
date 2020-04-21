@@ -11,7 +11,7 @@ Publications
 <ol reversed>
 <li> *Opgenoorth et al (submitted to Scientific Data) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species.</li>
 <li> Benavides et al (submitted to Scientific Data) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.</li>
-<li> Ramirez-Valiente et al (New Phytologist) Climatic drivers of selection on seed mass, emergence time and early growth rates across the distribution range of Scots pine (Pinus sylvestris L.).</li>
+<li> Ramirez-Valiente et al (submitted to New Phytologist) Climatic drivers of selection on seed mass, emergence time and early growth rates across the distribution range of Scots pine (Pinus sylvestris L.).</li>
 <li> Valdez-Correcher et al (submitted to Global Ecology and Biogeography) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe.</li>
 <li> Solé-Medina et al (in review in AoB PLANTS) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula).</li>
 <li> Bittner et al (in review in Journal of Paleolimnology) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications.</li>
