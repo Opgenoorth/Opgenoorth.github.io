@@ -19,12 +19,12 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'Team', link: '/team'}
-  - {name: 'Research', link: '/research'}
-  - {name: 'Publications', link: '/publications'}
+  - {name: 'home', link: '/'}
+  - {name: 'people', link: '/team'}
+  - {name: 'research', link: '/research'}
+  - {name: 'publications', link: '/publications'}
   #- {name: 'Teaching', link: '/teaching'}
-  - {name: 'Funding', link: '/funding'}
+  - {name: 'funding', link: '/funding'}
 
 tagline: >
   Lars Opgenoorth
