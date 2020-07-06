@@ -7,7 +7,7 @@ permalink: /team/
 
 position | phone | email | room | street | zipcode | city 
 --- | -------------------- | ----------------------------------- | --------- | ----------------------- | -------- | --- 
-Head | +49(0)6421 2822080 | opgenoorth[at]uni-marburg.de | C2063 | Karl-von-Frisch-Str.7 | D35043 | Marburg 
+Prof | +49(0)6421 2822080 | opgenoorth[at]uni-marburg.de | C2063 | Karl-von-Frisch-Str.7 | D35043 | Marburg 
 | +41(0)447 392590 | lars.opgenoorth[at]wsl.ch | BiMGC32 | Zürcherstrasse-111 | CH8903 | Birmensdorf 
 PostDoc | +34(0)976 369393 | gil.romera[at]gmail.com | external | Avda Montañana-1005 | E50080 | Zaragoza 
 PostDoc | +49(0)6421 2823307 | leberecht[at]uni-marburg.de | C2064 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
@@ -18,7 +18,7 @@ PhD | +49(0)6421 2826819 | merene73et[at]yahoo.ca | C2072 | Karl-von-Frisch-Str.
 assistant | +49(0)6421 2826665 | pascal.baclet[at]gmail.com | C2065 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 assistant | +49(0)6421 2826665 | hauthd[at]students.uni-marburg.de | C2065 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 
-## Dr. Lars Opgenoorth 
+## Prof. Dr. Lars Opgenoorth 
 I am a plant and evolutionary ecologist working on the adaptability of forests and high mountain environments. In my work I utilize a broad array of tools ranging from experimental ecology, genomics, (remote) sensing to biogography and paleoecology. I enjoy long days of field work as much as spending hours with data trying to understand how ecosystems deal with environmental changes. One focus of my work is how we humans have shaped the environment and what we can do to minimize detrimental effects and protect the planet's biodiversity.
 
 ## Dr. Martin Leberecht
