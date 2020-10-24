@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Lars Opgenoorth
+  name: Prof. Dr. Lars Opgenoorth
   links:
     #- https://twitter.com/epidiverse
     #- https://www.gretathunbergsweden/
@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: 'funding', link: '/funding'}
 
 tagline: >
-  Lars Opgenoorth
+  Prof. Dr. Lars Opgenoorth
 
 hero_img: posts/mountain-forest.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
