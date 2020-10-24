@@ -9,13 +9,14 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
+<li> Major et al. (in review in Molecular Ecology) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.) 
 <li> Jibin Miao et al. (in review in Plant Communications) Quaternary climate oscillations triggered and accelerated the speciation of a pair of narrow endemic conifers in eastern Qinghai-Tibet Plateau (QTP).</li>
 <li> *Opgenoorth et al (submitted to GigaScience) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species.</li>
 <li> Benavides et al (submitted to Global Ecology and Biogeography) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.</li>
-<li> Ramirez-Valiente et al (in review in New Phytologist) Climatic drivers of selection on seed mass, emergence time and early growth rates across the distribution range of Scots pine (Pinus sylvestris L.).</li>
+<li> Ramirez-Valiente et al (accepted in New Phytologist) Climatic drivers of selection on seed mass, emergence time and early growth rates across the distribution range of Scots pine (Pinus sylvestris L.).</li>
 <li> Valdez-Correcher et al (in review in Global Ecology and Biogeography) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe.</li>
-<li> Bittner et al (accepted in Journal of Paleolimnology) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications.</li>
-<li> Solé-Medina et al (accepted in AoB Plants) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula). </li>
+<li> Bittner et al (2020) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications. Journal of Paleolimnology, 64(3), 293-314.</li>
+<li> Solé-Medina et al (2020) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula). AoB Plants, doi.org/10.1093/aobpla/plaa019</li>
 <li> *Opgenoorth et al (2020) Rewinding the Molecular Clock in the genus Carabus: Revisiting Andujar et al. 2012.Biorxiv, doi: 10.1101/2020.02.19.912543</li>
 <li> Castagneyrol et al (2020) Can School Children Support Ecological Research? Lessons from the ‘Oak Bodyguard’ Citizen Science Project. Citizen Science: Theory and practice 5(1): 10, pp. 1–11. DOI: https://doi.org/10.5334/cstp.267</li>
 <li> Avanzi et al (2020) Individual reproductive success in Norway spruce natural populations depends on growth rate, age and sensitivity to temperature. 
