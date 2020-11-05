@@ -15,7 +15,8 @@ PhD | +49(0)6421 2823479 | bardrdz[at]uni-marburg.de | C2062 | Karl-von-Frisch-S
 PhD | +49(0)6421 2823479 | jill.sekely[at]uni-marburg.de | C2062 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 PhD | +49(0)6421 2823479 | mekbib_fekadu[at]]yahoo.com | C2072 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 PhD | +49(0)6421 2826819 | merene73et[at]yahoo.ca | C2072 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
-assistant | +49(0)6421 2826665 | pascal.baclet[at]gmail.com | C2065 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
+Technical assistant | +49(0)6421 2826665 | froehlis[at]gmail.com | C2065 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
+assistant | +49(0)6421 2826665 | pascal.baclet[at]biologie.uni-marburg.de | C4017 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 assistant | +49(0)6421 2826665 | hauthd[at]students.uni-marburg.de | C2065 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 
 ## Prof. Dr. Lars Opgenoorth 
