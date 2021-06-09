@@ -9,12 +9,13 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> Major et al. (in review in Molecular Ecology) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.) 
+<li> Major et al. (in review in Molecular Ecology) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.)</li>
 <li> Jibin Miao et al. (in review in Plant Communications) Quaternary climate oscillations triggered and accelerated the speciation of a pair of narrow endemic conifers in eastern Qinghai-Tibet Plateau (QTP).</li>
-<li> *Opgenoorth et al (submitted to GigaScience) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species.</li>
-<li> Benavides et al (accepted) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.  Global Ecology and Biogeography </li>
-<li> Ramirez-Valiente et al (accepted in New Phytologist) Climatic drivers of selection on seed mass, emergence time and early growth rates across the distribution range of Scots pine (Pinus sylvestris L.).</li>
-<li> Valdez-Correcher et al (accepted) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe. Global Ecology and Biogeography </li>
+<li> *Can et al (2021) The EpiDiverse Plant Epigenome-Wide Association Studies (EWAS) Pipeline. Epigenomes 5 (2), 12</li>
+<li> *Opgenoorth et al (2021) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species. GigaScience 10 (3), giab010 </li>
+<li> Benavides et al (2021) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.  GGlobal Ecology and Biogeography 30 (3), 590-597 </li>
+<li> Ramirez-Valiente et al (2021) Climatic drivers of selection on seed mass, emergence time and early growth rates across the distribution range of Scots pine (Pinus sylvestris L.). New Phytologist 229 (5), 3009-3025 </li>
+<li> Valdez-Correcher et al (2021) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe. Global Ecology and Biogeography 30 (3), 651-665</li>
 <li> Bittner et al (2020) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications. Journal of Paleolimnology, 64(3), 293-314.</li>
 <li> Solé-Medina et al (2020) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula). AoB Plants, doi.org/10.1093/aobpla/plaa019</li>
 <li> *Opgenoorth et al (2020) Rewinding the Molecular Clock in the genus Carabus: Revisiting Andujar et al. 2012.Biorxiv, doi: 10.1101/2020.02.19.912543</li>
