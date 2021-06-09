@@ -11,7 +11,8 @@ Publications
 <ol reversed>
 <li> Major et al. (in review in Molecular Ecology) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.)</li>
 <li> Jibin Miao et al. (in review in Plant Communications) Quaternary climate oscillations triggered and accelerated the speciation of a pair of narrow endemic conifers in eastern Qinghai-Tibet Plateau (QTP).</li>
-<li> *Can et al (2021) The EpiDiverse Plant Epigenome-Wide Association Studies (EWAS) Pipeline. Epigenomes 5 (2), 12</li>
+<li> Opgenoorth & Rellstab (accepted in Molecular Ecology) Tackling the challenges of evolutionary forest research with multi-data approaches </li>
+<li> Can et al (2021) The EpiDiverse Plant Epigenome-Wide Association Studies (EWAS) Pipeline. Epigenomes 5 (2), 12</li>
 <li> *Opgenoorth et al (2021) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species. GigaScience 10 (3), giab010 </li>
 <li> Benavides et al (2021) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.  GGlobal Ecology and Biogeography 30 (3), 590-597 </li>
 <li> Ramirez-Valiente et al (2021) Climatic drivers of selection on seed mass, emergence time and early growth rates across the distribution range of Scots pine (Pinus sylvestris L.). New Phytologist 229 (5), 3009-3025 </li>
