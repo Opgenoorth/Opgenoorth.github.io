@@ -9,9 +9,13 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> Major et al. (in review in Molecular Ecology) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.)</li>
-<li> Jibin Miao et al. (in review in Plant Communications) Quaternary climate oscillations triggered and accelerated the speciation of a pair of narrow endemic conifers in eastern Qinghai-Tibet Plateau (QTP).</li>
-<li> Opgenoorth & Rellstab (accepted in Molecular Ecology) Tackling the challenges of evolutionary forest research with multi-data approaches </li>
+<li> Reuber et al. (2021) Complete mitochondrial genome of the giant root-rat (Tachyoryctes macrocephalus). Mitochondrial DNA Part B 6 (8), 2191-2193.</li>
+<li> *Opgenoorth & Rellstab (2021) Tackling the challenges of evolutionary forest research with multidata approaches. Molecular Ecology 30 (16), 3893-3895.</li>
+<li> *Opgenoorth et al (2021) Rewinding the molecular clock in the genus Carabus (Coleoptera: Carabidae) in light of fossil evidence and the Gondwana split: A reanalysis. PlosOne</li>
+<li> Ramirez-Valiente et al. (2021) Adaptive responses to temperature and precipitation variation at the early‐life stages of Pinus sylvestris. New Phytologist. </li>
+<li> Gil-Romera (2021) The highest altitude paleoecological record of early pastoralism in Africa. EGU 21-12530.</li>
+<li> Major et al. (2021) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.). Molecular Ecology: https://doi.org/10.1111/mec.16107 </li>
+<li> Jibin Miao et al. (2021) Evolutionary history of two rare endemic conifer species from the eastern Qinghai–Tibet Plateau. Annals of Botany. </li>
 <li> Can et al (2021) The EpiDiverse Plant Epigenome-Wide Association Studies (EWAS) Pipeline. Epigenomes 5 (2), 12</li>
 <li> *Opgenoorth et al (2021) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species. GigaScience 10 (3), giab010 </li>
 <li> Benavides et al (2021) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.  GGlobal Ecology and Biogeography 30 (3), 590-597 </li>
@@ -19,7 +23,6 @@ Publications
 <li> Valdez-Correcher et al (2021) Search for top-down and bottom-up drivers of latitudinal trends in insect herbivory in oak trees in Europe. Global Ecology and Biogeography 30 (3), 651-665</li>
 <li> Bittner et al (2020) Revisiting afro-alpine Lake Garba Guracha in the Bale Mountains of Ethiopia - rationale, chronology, geochemistry, and paleoenvironmental implications. Journal of Paleolimnology, 64(3), 293-314.</li>
 <li> Solé-Medina et al (2020) Genetic variation in early fitness traits across European populations of silver birch (Betula pendula). AoB Plants, doi.org/10.1093/aobpla/plaa019</li>
-<li> *Opgenoorth et al (2020) Rewinding the Molecular Clock in the genus Carabus: Revisiting Andujar et al. 2012.Biorxiv, doi: 10.1101/2020.02.19.912543</li>
 <li> Castagneyrol et al (2020) Can School Children Support Ecological Research? Lessons from the ‘Oak Bodyguard’ Citizen Science Project. Citizen Science: Theory and practice 5(1): 10, pp. 1–11. DOI: https://doi.org/10.5334/cstp.267</li>
 <li> Avanzi et al (2020) Individual reproductive success in Norway spruce natural populations depends on growth rate, age and sensitivity to temperature. 
 Heredity, doi:10.1038/s41437-020-0305-0</li>
