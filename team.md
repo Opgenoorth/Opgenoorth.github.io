@@ -7,20 +7,24 @@ permalink: /team/
 
 position | phone | email | room | street | zipcode | city 
 --- | -------------------- | ----------------------------------- | --------- | ----------------------- | -------- | --- 
-Prof | +49(0)6421 2822080 | opgenoorth[at]uni-marburg.de | C2063 | Karl-von-Frisch-Str.7 | D35043 | Marburg 
+Prof | +49(0)6421 2822080 | opgenoorth[at]uni-marburg.de | C4019 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 | +41(0)447 392590 | lars.opgenoorth[at]wsl.ch | BiMGC32 | Zürcherstrasse-111 | CH8903 | Birmensdorf 
+Senior researcher | +49(0)6421 28224972 | lampei[at]uni-marburg.de | C4016 | Karl-von-Frisch-Str. 8 | D35043 | Marburg
 PostDoc | +34(0)976 369393 | gil.romera[at]gmail.com | external | Avda Montañana-1005 | E50080 | Zaragoza 
 PostDoc | +49(0)6421 2823307 | leberecht[at]uni-marburg.de | C2064 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
-PhD | +49(0)6421 2823479 | bardrdz[at]uni-marburg.de | C2062 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
-PhD | +49(0)6421 2823479 | jill.sekely[at]uni-marburg.de | C2062 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
-PhD | +49(0)6421 2823479 | mekbib_fekadu[at]]yahoo.com | C2072 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
-PhD | +49(0)6421 2826819 | merene73et[at]yahoo.ca | C2072 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
+PhD | +49(0)6421 2823479 | bardrdz[at]uni-marburg.de | C0331 | Karl-von-Frisch-Str. 8 | D35043 | Marburg
+PhD | +49(0)6421 2823479 | jill.sekely[at]uni-marburg.de | C0331 | Karl-von-Frisch-Str. 8 | D35043 | Marburg
+PhD | +49(0)6421 2823479 | mekbib_fekadu[at]]yahoo.com | C0332 | Karl-von-Frisch-Str. 8 | D35043 | Marburg
+PhD | +49(0)6421 2826819 | merene73et[at]yahoo.ca | C0332 | Karl-von-Frisch-Str. 8 | D35043 | Marburg
+PhD | +49(0)6421 2823479 | shayle[at]uni-marburg.de | C0331 | Karl-von-Frisch-Str. 8 | D35043 | Marburg
 Technical assistant | +49(0)6421 2826665 | froehlis[at]gmail.com | C2065 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
-assistant | +49(0)6421 2826665 | pascal.baclet[at]biologie.uni-marburg.de | C4017 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 assistant | +49(0)6421 2826665 | hauthd[at]students.uni-marburg.de | C2065 | Karl-von-Frisch-Str.8 | D35043 | Marburg 
 
 ## Prof. Dr. Lars Opgenoorth 
 I am a plant and evolutionary ecologist working on the adaptability of forests and high mountain environments. In my work I utilize a broad array of tools ranging from experimental ecology, genomics, (remote) sensing to biogography and paleoecology. I enjoy long days of field work as much as spending hours with data trying to understand how ecosystems deal with environmental changes. One focus of my work is how we humans have shaped the environment and what we can do to minimize detrimental effects and protect the planet's biodiversity.
+
+## Dr. Christian Lampei
+to be added.
 
 ## Dr. Martin Leberecht
 I am a tree biologist working on trees in forests and urban environments. My interests are how trees react to environmental stresses and interactions with other organisms and how they maintain their mechanical and physiological stability. To study trees, I use a broad spectrum of methods, like arborist’s tree climbing techniques to access the canopy, arboricultural consultant’s methods to investigate tree structures and physiological methods to link structure and function. Currently I am working in the LOEWE project Natur 4.0. My goal is to investigate individual stress of beech and oak trees and their biomass production. Further I study food and microhabitat supply by trees to insects and birds, depending on the trees long- and short-term stress level.  
@@ -40,6 +44,9 @@ I am a PhD student in the DFG research unit 2358 and work on the ecology and pal
 
 ## Yeshitla Merene Abebe, MSc
 My Ph.D. dissertation is on the comparative biogeography of ground beetles of the Ethiopian Highlands. Based on a literature review I try to develop the database on the general biogeography of the Ethiopian ground beetles.  My study in the lab focuses on morphology, taxonomy, phylogeography and comparative phylogenetics of the Ethiopian ground beetles with special emphasis on the afroalpine areas of the Bale Mts. and other volcanic mountains of Ethiopia. 
+
+## Elliot Shayle, MSc
+to be added.
 
 # Former group members
 
