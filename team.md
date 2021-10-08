@@ -43,14 +43,14 @@ My Ph.D. dissertation is on the comparative biogeography of ground beetles of th
 
 # Former group members
 
-## Dr. Isabelle Lesure
-Isabelle is a bioinformatician working on genomics and transcriptomics of forest tree species. She was part of my working group in the framework of the GenTree and BEECHgenome projects working on beech genomics. 
-
-## Dr. Katrin Heer
+## Prof. Dr. Katrin Heer
 [Katrin](https://www.uni-marburg.de/fb17/fachgebiete/naturschutz/naturschutzbiologie/staff/academic-staff/katrin?language_sync=1) is an evolutionary ecologist and was a PostDoc as part of the TipTree project in my group. We have since been collaborating on a number of tree-adaptation related projects.
-
-## Dr. Joachim Schmidt 
-[Joachim](https://www.zoologie.uni-rostock.de/team/mitarbeitende/dr-joachim-schmidt/) is as an entomologist and ecologist specialising in ground beetle taxonomy, phylogeny, ecology, and biogeography. Joachim has been working as a PostDoc in my team in the framework of the DFG research unit 2358 the past three years. Joachim has uncovered an enormous ground beetle diversity and utlizes this diversity in the Bale Mts of Ethiopia as a proxy to derive the paleoenvironment of these mountains. We have been working and will continue to do so on beetle phylogeography as a paleoecological tool for reconstructing landscape histories.
 
 ## Dr. Sylvia Hofmann
 works with the phylogeography, evolution and systematics of the herpetofauna and beetle fauna of High Asia, population genetics, effects of land-use change on biodiversity and genetic epidemiology. She has worked in my group in the framework of the DFG Research Unit Bale Mountains using ground beetles as a paleoecological landscape proxy.
+
+## Dr. Isabelle Lesure
+Isabelle is a bioinformatician working on genomics and transcriptomics of forest tree species. She was part of my working group in the framework of the GenTree and BEECHgenome projects working on beech genomics. 
+
+## Dr. Joachim Schmidt 
+[Joachim](https://www.zoologie.uni-rostock.de/team/mitarbeitende/dr-joachim-schmidt/) is as an entomologist and ecologist specialising in ground beetle taxonomy, phylogeny, ecology, and biogeography. Joachim has been working as a PostDoc in my team in the framework of the DFG research unit 2358 the past three years. Joachim has uncovered an enormous ground beetle diversity and utlizes this diversity in the Bale Mts of Ethiopia as a proxy to derive the paleoenvironment of these mountains. We have been working and will continue to do so on beetle phylogeography as a paleoecological tool for reconstructing landscape histories.
