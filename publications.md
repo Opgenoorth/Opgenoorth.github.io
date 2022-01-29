@@ -9,13 +9,16 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
+<li> Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. Mitochondrial DNA Part B 6 (8), 2191-2193.</li>
+<li> Mishra et al. (accepted) A chromosome-level genome assembly of the European Beech (Fagus sylvatica) reveals anomalies for organelle DNA integration, repeat content and distribution of SNPs. Frontiers in Genetics.</li>
+<li> Romera et al. (2021) The new Garba Guracha palynological sequence: Revision and data expansion. Quaternary Vegetation Dynamics-The African Pollen Database, 127-134.</li>
 <li> Reuber et al. (2021) Complete mitochondrial genome of the giant root-rat (Tachyoryctes macrocephalus). Mitochondrial DNA Part B 6 (8), 2191-2193.</li>
 <li> *Opgenoorth & Rellstab (2021) Tackling the challenges of evolutionary forest research with multidata approaches. Molecular Ecology 30 (16), 3893-3895.</li>
 <li> *Opgenoorth et al (2021) Rewinding the molecular clock in the genus Carabus (Coleoptera: Carabidae) in light of fossil evidence and the Gondwana split: A reanalysis. PlosOne</li>
 <li> Ramirez-Valiente et al. (2021) Adaptive responses to temperature and precipitation variation at the early‐life stages of Pinus sylvestris. New Phytologist. </li>
 <li> Gil-Romera (2021) The highest altitude paleoecological record of early pastoralism in Africa. EGU 21-12530.</li>
-<li> Major et al. (2021) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.). Molecular Ecology: https://doi.org/10.1111/mec.16107 </li>
-<li> Jibin Miao et al. (2021) Evolutionary history of two rare endemic conifer species from the eastern Qinghai–Tibet Plateau. Annals of Botany. </li>
+<li> Major et al. (2021) Spatial genetic structure at local and global scales across the species range in silver fir (<i>Abies alba</i> Mill.). Molecular Ecology: 30(20), 5247-5265. </li>
+<li> Miao et al. (2021) Evolutionary history of two rare endemic conifer species from the eastern Qinghai–Tibet Plateau. Annals of Botany. </li>
 <li> Can et al (2021) The EpiDiverse Plant Epigenome-Wide Association Studies (EWAS) Pipeline. Epigenomes 5 (2), 12</li>
 <li> *Opgenoorth et al (2021) The GenTree Platform: growth traits and tree-level environmental data in twelve European forest tree species. GigaScience 10 (3), giab010 </li>
 <li> Benavides et al (2021) The GenTree Leaf Collection: inter- and intraspecific leaf variation in seven forest tree species in Europe.  GGlobal Ecology and Biogeography 30 (3), 590-597 </li>
