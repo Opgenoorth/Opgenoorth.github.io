@@ -9,7 +9,7 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> Schmidt et al. (prepring) Molecular phylogeny of mega-diverse Carabus attests late Miocene evolution of alpine environments in the Himalayan-Tibetan Orogen. Research Square: https://doi.org/10.21203/rs.3.rs-2190050/v1</li>
+<li> Schmidt et al. (preprint) Molecular phylogeny of mega-diverse Carabus attests late Miocene evolution of alpine environments in the Himalayan-Tibetan Orogen. Research Square: https://doi.org/10.21203/rs.3.rs-2190050/v1</li>
 <li> Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> Milesi et al. (preprint) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles. Biorxiv.doi: https://doi.org/10.1101/2023.01.05.522822</li>
  <li> Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
