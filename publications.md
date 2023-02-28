@@ -9,11 +9,11 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> Schmidt et al. (preprint) Molecular phylogeny of mega-diverse Carabus attests late Miocene evolution of alpine environments in the Himalayan-Tibetan Orogen. Research Square: https://doi.org/10.21203/rs.3.rs-2190050/v1</li>
-<li> Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
+<li> *Schmidt et al. (preprint) Molecular phylogeny of mega-diverse Carabus attests late Miocene evolution of alpine environments in the Himalayan-Tibetan Orogen. Research Square: https://doi.org/10.21203/rs.3.rs-2190050/v1</li>
+<li> *Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> Milesi et al. (preprint) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles. Biorxiv.doi: https://doi.org/10.1101/2023.01.05.522822</li>
- <li> Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
-<li> Martine et al. (2022) The South Asian monsoon maintains the disjunction of Rumex hastatus between the western Himalayas and the Hengduan Mountains, southwest China. Nordic Journal of Botany, 2022(11), e03706</li>
+ <li> *Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
+<li> *Martine et al. (2022) The South Asian monsoon maintains the disjunction of Rumex hastatus between the western Himalayas and the Hengduan Mountains, southwest China. Nordic Journal of Botany, 2022(11), e03706</li>
 <li> Zacharias et al. (2022) Genetic basis of growth reaction to drought stress differs in contrasting high‐latitude treeline ecotones of a widespread conifer. Molecular Ecology, 31(20), 5165-5181.</li>
 <li> Wraase (2022) Remote sensing‐supported mapping of the activity of a subterranean landscape engineer across an afro‐alpine ecosystem. Remote Sensing in Ecology and Conservation.</li>
 <li> Asgharinia (2022) Towards Continuous Stem Water Content and Sap Flux Density Monitoring: IoT-Based Solution for Detecting Changes in Stem Water Dynamics. Forests, 13(7), 1040.</li>
