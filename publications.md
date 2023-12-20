@@ -9,10 +9,17 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> *Schmidt et al. (preprint) Molecular phylogeny of mega-diverse Carabus attests late Miocene evolution of alpine environments in the Himalayan-Tibetan Orogen. Research Square: https://doi.org/10.21203/rs.3.rs-2190050/v1</li>
+<li> Sekely, J. T., Marchelli, P., Arana, M. V., Dauphin, B., Mattera, M. G., Pastorino, M. J., ... & Opgenoorth, L. (2023). Temperature and day length drive local adaptation in the Patagonian foundation tree species Nothofagus pumilio. bioRxiv, 2023-04.<li> 
+<li> Zhou (prepring). Recurrent hybridization and gene flow shaped Norway and Siberian spruce evolutionary history over multiple glacial cycles. BioRxiv, 2023-10.<li> 
 <li> *Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
+<li> Reuber, V. M., Westbury, M. V., Rey-Iglesia, A., Asefa, A., Farwig, N., Miehe, G., ... & Schabo, D. G. (2023). Topographic barriers drive the pronounced genetic subdivision of a range-limited fossorial rodent. bioRxiv, 2023-04.<li> 
 <li> Milesi et al. (preprint) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles. Biorxiv.doi: https://doi.org/10.1101/2023.01.05.522822</li>
- <li> *Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
+<li> *Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
+<li> Pyhäjärvi et al. (2023) Gene sequence variation data for the publication" Synchronous effective population size changes and genetic stability of forest trees through glacial cycles": version 1.0.<li> 
+<li> Merene et al. (2023) Ground and tiger beetles (Coleoptera: Carabidae, Cicindelidae) of the Federal Democratic Republic of Ethiopia: a provisional faunistic checklist based on literature data. Zootaxa, 5247(1), 1-345.<li> 
+<li> Faille et al. (2023)﻿ Explosive radiation versus old relicts: The complex history of Ethiopian Trechina, with description of a new genus and a new subgenus (Coleoptera, Carabidae, Trechini). Deutsche Entomologische Zeitschrift, 70(2), 311-335.</li>
+<li> Wraase et al.(2023) Remote sensing‐supported mapping of the activity of a subterranean landscape engineer across an afro‐alpine ecosystem. Remote Sensing in Ecology and Conservation, 9(2), 195-209.<li> 
+<li> *Schmidt et al. (2023) Molecular phylogeny of mega-diverse Carabus attests late Miocene evolution of alpine environments in the Himalayan-Tibetan Orogen. Scientific Reports 13 (1), 13272 [https://doi.org/10.21203/rs.3.rs-2190050/v1](https://doi.org/10.1038/s41598-023-38999-6)</li>
 <li> *Martine et al. (2022) The South Asian monsoon maintains the disjunction of Rumex hastatus between the western Himalayas and the Hengduan Mountains, southwest China. Nordic Journal of Botany, 2022(11), e03706</li>
 <li> Zacharias et al. (2022) Genetic basis of growth reaction to drought stress differs in contrasting high‐latitude treeline ecotones of a widespread conifer. Molecular Ecology, 31(20), 5165-5181.</li>
 <li> Wraase (2022) Remote sensing‐supported mapping of the activity of a subterranean landscape engineer across an afro‐alpine ecosystem. Remote Sensing in Ecology and Conservation.</li>
