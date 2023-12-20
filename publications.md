@@ -9,8 +9,8 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> Sekely, J. T., Marchelli, P., Arana, M. V., Dauphin, B., Mattera, M. G., Pastorino, M. J., ... & Opgenoorth, L. (2023). Temperature and day length drive local adaptation in the Patagonian foundation tree species Nothofagus pumilio. bioRxiv, 2023-04.<li> 
-<li> Zhou (prepring). Recurrent hybridization and gene flow shaped Norway and Siberian spruce evolutionary history over multiple glacial cycles. BioRxiv, 2023-10.<li> 
+<li> Sekely, J. T., Marchelli, P., Arana, M. V., Dauphin, B., Mattera, M. G., Pastorino, M. J., ... & Opgenoorth, L. (2023). Temperature and day length drive local adaptation in the Patagonian foundation tree species Nothofagus pumilio. bioRxiv, 2023-04. <li> 
+<li> Zhou (prepring). Recurrent hybridization and gene flow shaped Norway and Siberian spruce evolutionary history over multiple glacial cycles. BioRxiv, 2023-10. <li> 
 <li> *Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> Reuber, V. M., Westbury, M. V., Rey-Iglesia, A., Asefa, A., Farwig, N., Miehe, G., ... & Schabo, D. G. (2023). Topographic barriers drive the pronounced genetic subdivision of a range-limited fossorial rodent. bioRxiv, 2023-04.<li> 
 <li> Milesi et al. (preprint) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles. Biorxiv.doi: https://doi.org/10.1101/2023.01.05.522822</li>
