@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H2020 FORGENIUS | Research for the European Gene Conservation Units
+title: FORGENIUS | Research for the European Gene Conservation Units
 summary: Final field work season under way
 featured-img: totalstation
 ---
