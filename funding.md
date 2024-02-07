@@ -6,8 +6,12 @@ permalink: /funding/
 
 Our research would not be possible without the support of our funding agencies. 
 
-
-- 2020 H2020, 4 years, ~ 245.000 € (co PIs: Heer, Nauss)
+- 2024 H2020, 5 years, ~ 500.000 €
+- 2023 LOEWE, 3 years, ~ 200.000 €
+- 2023 BMBF, 3 years, ~ 200.000 €
+- 2023 DFG, 4 years, ~ 1.700.000 €
+- 2022 DFG, 3 years, ~ 200.000 €
+- 2020 H2020, 4 years, ~ 245.000 €
 - 2019 DFG, 3 years, ~ 950.000 €
 - 2019 WSL, 6 months, ~ 15.000 €
 - 2018 DFG, 3 years, ~ 170.000 €
