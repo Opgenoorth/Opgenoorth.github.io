@@ -9,12 +9,12 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> *Sekely et al. (preprint). Temperature and day length drive local adaptation in the Patagonian foundation tree species Nothofagus pumilio. bioRxiv, 2023-04. </li> 
 <li> Zhou (preprint). Recurrent hybridization and gene flow shaped Norway and Siberian spruce evolutionary history over multiple glacial cycles. BioRxiv, 2023-10. </li>
 <li> *Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> Reuber et al. (preprint) Topographic barriers drive the pronounced genetic subdivision of a range-limited fossorial rodent. bioRxiv, 2023-04.</li> 
 <li> Milesi et al. (preprint) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles. Biorxiv.doi: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> *Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
+<li> *Sekely et al. (accepted in Plants, Planet, People). Genomic Responses to Climate: Understanding local adaptation in the Andean tree species <i>Nothofagus pumilio</i> and implications for a changing world</li> 
 <li> Zeuss et al. (2023). Nature 4.0: A networked sensor system for integrated biodiversity monitoring. Global Change Biology 30 (1) https://doi.org/10.1111/gcb.17056 </li> 
 <li> Pyhäjärvi et al. (2023) Gene sequence variation data for the publication" Synchronous effective population size changes and genetic stability of forest trees through glacial cycles": version 1.0.</li>
 <li> Merene et al. (2023) Ground and tiger beetles (Coleoptera: Carabidae, Cicindelidae) of the Federal Democratic Republic of Ethiopia: a provisional faunistic checklist based on literature data. Zootaxa, 5247(1), 1-345.</li>
