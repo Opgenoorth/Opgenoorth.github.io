@@ -6,6 +6,7 @@ permalink: /funding/
 
 Our research would not be possible without the support of our funding agencies. 
 
+- 2024 DFG, 3 years, ~ 250.000 €
 - 2024 H2020, 5 years, ~ 500.000 €
 - 2023 LOEWE, 3 years, ~ 200.000 €
 - 2023 BMBF, 3 years, ~ 200.000 €
