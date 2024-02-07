@@ -27,7 +27,10 @@ Technical assistant | +49(0)6421 2826665 | goettig[at]biologie.uni-marburg.de | 
 I am a plant and evolutionary ecologist working on the adaptability of forests and high mountain environments. In my work I utilize a broad array of tools ranging from experimental ecology, genomics, (remote) sensing to biogography and paleoecology. I enjoy long days of field work as much as spending hours with data trying to understand how ecosystems deal with environmental changes. One focus of my work is how we humans have shaped the environment and what we can do to minimize detrimental effects and protect the planet's biodiversity.
 
 ## Dr. Christian Lampei
-to be added.
+## Dr. Mona Schreiber
+## Dr. Julia Völker
+## Dr. Susanne Walden
+## Dr. Monica Berdugo
 
 ## Jill Sekely, MSc
 I am a conservation biologist with a background in animal ecology, endangered species conservation, and most recently forest ecology and genetics. I am currently working on my PhD candidacy as part of the international DFG-funded project LocalAdapt. This project combines dendrophenotyping and genetic association studies to disentangle the interplay of genetics, phenotypes, and environmental variables. Specifically, I study a common tree species *Nothofagus pumilio* along the stunning Andes mountain range. It is possible I have spent a little too much time out in the woods. However, there is no better way to tackle my curiosity about climate change, the future of forest ecology, and human sustainability than to be a part of a working group like this one.
@@ -38,8 +41,11 @@ I am a PhD student in the DFG research unit 2358 and work on the ecology and pal
 ## Yeshitla Merene Abebe, MSc
 My Ph.D. dissertation is on the comparative biogeography of ground beetles of the Ethiopian Highlands. Based on a literature review I try to develop the database on the general biogeography of the Ethiopian ground beetles.  My study in the lab focuses on morphology, taxonomy, phylogeography and comparative phylogenetics of the Ethiopian ground beetles with special emphasis on the afroalpine areas of the Bale Mts. and other volcanic mountains of Ethiopia. 
 
-## Elliot Shayle, MSc
-to be added.
+## Erik Martiné, MSc
+
+## Marieke Lenga, MSc
+
+## Christian Mestre-Runge, MSc
 
 # Former group members
 
