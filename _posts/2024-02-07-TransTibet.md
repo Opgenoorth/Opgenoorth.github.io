@@ -7,7 +7,7 @@ featured-img: groundbeetle
 # News
 A new exiting project on the evolutionary history of ground beetles in high asia is about to start. We are looking for an enthusiastic researcher interested in the evolutionary history and adaptation of ground beetles to the high mountain environments of High Asia.
 
-![Alt text](/assets/images/TransTibet Figure 1.jpg)
+![Alt text](/assets/img/TransTibet Figure 1.jpg)
 
 
 # Background
