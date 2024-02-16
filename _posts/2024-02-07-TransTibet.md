@@ -4,7 +4,7 @@ title: DFG TransTibet | Open PhD position to be filled
 summary: Phylogenomics of ground beetles in High Asia
 featured-img: groundbeetle
 ---
-# News
+# DFG project TransTibet - PhD position to be filled...
 TransTibet is a new exiting project on the evolutionary history of ground beetles in high asia and we are looking for an enthusiastic Phd student.
 
 "TransTibet - Phylogenetic reconstruction of trans-Tibet dispersal events in wingless ground beetles" is a project that aims to deepen our understanding of the paleoenvironmental evolution of the Tibetan Plateau (TP) through the study of wingless ground beetles' phylogeny. Over the past decade, we have established ground beetles as a significant paleoenvironmental proxy, particularly for high mountain regions in low latitudes. By combining ecological and phylogenetic data from species endemic to the Himalayan-Tibetan orogeny, they've developed scenarios for the spatio-temporal evolution of paleoenvironments, contributing to our understanding of regional surface uplift in the area.
