@@ -36,11 +36,11 @@ Based on these objectives, the following working hypotheses are formulated:
 3) Crown ages of the respective geographically separated clades of beetles adapted to the temperate climate and characterized by trans-Tibetan disjunctions, date to the end of the Miocene. – Confirmation of this hypothesis would corroborate that the development of an extensive uplift-induced alpine area in central TP did not start before the Late Miocene and therewith, reject HTO uplift models which assume the presence of an Early Neogene alpine Plateau.
 4) Maximum ages of crown groups of beetles which are strictly adapted to the alpine belt and characterized by trans-Tibet distributional patterns date to the Late Miocene. – Confirmation of this hypothesis would corroborate the view that the final uplift phase of the HTO with the development of an extent alpine TP did not start before the Late Miocene.
 
-# The Phd dissertation will
+# The Phd dissertation
 ## Reference genome
 To facilitate subsequent phylogenomic analyses, we will create a chromosome-level reference genome at the start of the project. For this purpose, we will extract high molecular weight DNA for PacBio HiFi sequencing at the functional genomic centre (Zürich). Scaffolding will be performed with Hi-C sequencing by PhaseGenomics (Seattle) to achieve chromosome level resolution. Because our proposed taxon sampling covers a wide spectrum of the ground beetle diversity from “basal-grade” to so called higher carabids, we will use a species of the Patrobini genus Deltomerodes for reference genome which represents a “middle grade” Carabidae (Schmidt et al. 2021). We expect a genome size of ~200 Mb (Weng et al. 2021). The annotation of the genome will be performed by IGATech. For this purpose, RNA-Seq data will be generated at very high coverage (1000M reads) for a multi-tissue RNA pool followed by an ab initio gene model prediction and a de novo functional annotation (InterProScan GO/motif + Blast of SwissProt entries to attach a semantic description).
 
-# Phylogenomic and biogeographic analyses
+## Phylogenomic and biogeographic analyses
 Given that a significant portion of the samples are museum specimen (see table 1), the project will be based on two approaches, a targeted sequencing approach reflecting samples with potential issues in DNA quality, as well as whole genome sequencing approach using low coverage sequencing at 5x coverage (lcWGS, Lou et al. 2021) for fresh and well-preserved museum beetle materials. In combination with the reference genome, this will allow us to design additional baits. In the following two paragraphs we will briefly outline the procedure for both approaches.
 
 <figure>
@@ -49,6 +49,40 @@ group, with 14 extant local endemic species. A hypothetical phylogeny of the gro
 portion because the uplift of Tibet’s interior topped the temperate climatic belt. At the same time, new habitats continuously develop along orogen margins.">
   <figcaption>Figure 3: Development of trans-Tibet disjunct distributional patterns in a hypothetical species group.</figcaption>
 </figure>
+
+Because a genotype call at such low coverage has some uncertainty, genotype likelihoods will be used for downstream analysis instead (Lou et al. 2021). In detail we will proceed as follows. DNA will be extracted using the Blood and Tissue Kit from Qiagen (Hilden). We will use a diluted Nextera (Illumina, Sandiego CA, USA) protocol (Baym et al. 2015) to produce a du-al-indexed whole-genome sequencing library of each sample to enable multiplexing of 96 individuals. Different i5 and i7 primers will be used to tag multiplex-libraries for further multiplexing, and will be sequenced at 5x coverage using 150bp paired-end reads on the Novaseq-Sequencing platform (Illumina). The raw reads will be trimmed to remove polyG tails, quality controlled using FastQC (Andrews et al. 2010) and mapped to the de novo assembled reference genome (see previous chapter) using BWAmem. After applying quality filters (e.g. base quality, mapping quality, minimum depth or minimum number of individuals with coverage) genotype likelihoods will be calculated using the SAMtools genotype likelihood model implemented in ANGSD.
+The targeted sequencing will be based on two sources of baits. First, we will use ~1200 ultraconserved elements (UCEs) based on a set of 13,674 published baits (Faircloth 2017). As the name indicates, UCEs are highly conserved regions of organismal genomes shared among evolutionary distant taxa and have proven useful in beetles for reconstructing the evolutionary history (Zhang et al. 2018) and on museum specimen (Derkarabetian et al. 2019). Second, we will design additional baits based on the new reference genome and the resequencing of our fresh beetle collection, allowing for more specific baits. Then, total genomic DNA will be hybridized following the NimbleGen SeqCap EZ Library User’s guide (Roche NimbleGen, see Wang et al. 2022), and sequenced on an HiSeq X Ten platform producing 150 bp paired end reads (Illumina). Raw reads will be filtered using the software Trimmomatic and then assembled to capture sequences using HybPiper. Both data sets will subsequently be merged for downstream
+analyses.
+All genes will be aligned on the basis of translated amino acid sequences and will be concatenated. The protein and nucleotide data sets will be analyzed with Maximum Likelihood as well as Bayesian inference methods using RAxML (Stamatakis 2014) and ExaBayes (Aberer et al., 2014) respectively, given their capabilities to handle large datasets efficiently. For each gene, the best ML tree and 200 bootstrapping trees will be inferred with RAxML. The species tree analysis will then be conducted using ASTRAL III (Zhang et al. 2018) taking the unrooted best ML gene trees and corresponding bootstrapping trees as input, under the multilocus
+bootstrapping option. We will use the approximately unbiased test as implemented in CONSEL
+to evaluate the different phylogenetic hypotheses, and will calculate site-wise log likelihoods of
+all alternative topologies with RAxML, using these as input to estimate the P-values for each
+alternative hypothesis.
+Using the genomic data and fossil information we will perform BEAST analyses (Bouckaert et al.
+2019) for the molecular dating of cladogenetic events. An important strength of this proposal is
+our strategy to improve the age constraining of the phylogeny by substantially increasing the
+calibrating fossil data base as explained above. Because carabids are unknown from HTO fossil
+deposits, we will identify and deeply investigate fossils from close related outgroup taxa of the
+HTO endemics. Fossil species of the tribes Bembidiini, Pterostichini, Sphodrini, Trechini, Zabrini
+and many Harpalinae lineages are already available for study, additional promising amber fossils
+will be loaned from museums and private collectors. To enable the utilization of the markedly
+enlarged fossil data base in our phylogenetic analyses, we will use a large outgroup set of ~100
+taxa (table 1) across the ground beetle diversity. We are thus optimistic, that we will be able to
+provide a very thorough age constraints resulting in small confidence intervals.
+To infer and compare different scenarios of the biogeographic history of the ground beetle species
+groups, we will follow two approaches. First, we will perform range evolution analysis using the R
+package BioGeoBAERS (Matzke 2013). The complex geological history of the HTO will be
+incorporated into the analyses by different time-stratification, information on connectivity between
+HTO parts according to the three currently widely discussed uplift scenarios (see table 2), the just
+recently proposed scenario by Schmidt et al. 2022 (above), the current topography as null model,
+as well as the choice of dispersal multipliers. Based on these different assumptions, several
+models that accommodate vicariance (and for reasons of comparison also dispersal) will be
+implemented in BioGeoBEARS by means of among-area probability matrices (Wang et al. 2022).
+Second, we will utilize the RevBayes (Höhna et al. 2016) framework to jointly model the range
+and biome evolution based on the cladogenetic state change framework (ClaSSE, Goldberg and
+Igić 2012). Again, we will set up the four different models (table 2) plus the current topography as
+a null model. Given niche conservatism of the beetles, we assume constant biome occupancy
+throughout all mountain ranges.
 
 # Co-PI
 * Dr. Joachim Schmidt (Rostock)
