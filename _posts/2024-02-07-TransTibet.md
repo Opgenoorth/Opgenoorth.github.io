@@ -73,3 +73,7 @@ Using the genomic data and fossil information we will perform BEAST analyses (Bo
 # Co-PIs
 * Dr. Joachim Schmidt (Rostock)
 * Prof. Dr. Kangshan Mao (Chengdu)
+
+# To apply
+[Uni-Marburg Job Posting 1](https://stellenangebote.uni-marburg.de/jobposting/9b075fc586afaf84e835df98327741d2caf4540a0)
+[Uni-Marburg Job Posting 2](https://stellenangebote.uni-marburg.de/jobposting/ff77e1f24321037af2b0b0ed884cc2dfd47edd6f0)
