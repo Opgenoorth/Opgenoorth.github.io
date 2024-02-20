@@ -71,8 +71,13 @@ Using the genomic data and fossil information we will perform BEAST analyses (Bo
 </figure>
 
 # Co-PIs
+The Phd student will be based at the University of Marburg and will be supervsied by Lars Opgenoorth. He/she will be co-supervised by Joachim Schmidt and Kangshan Mao with regular online meetings:
+
 * Dr. Joachim Schmidt, University of Rostock
+Joachim is an entomologist specializing in the evolution of ground beetles. He has described and revised substantial parts of the high Asian and Afro-alpine ground beetle fauna, as well as the globally available ground beetle fossils, spearheading the use of micro CT technology to describe amber fossils.
+
 * Prof. Dr. Kangshan Mao, Sichuan University, SCU College of Life Sciences, www.researchgate.net/profile/Kangshan-Mao
+Kangshan has been a leader on the evolution and phylogenomics of conifers in High-Asia.
 
 # To apply
 ## in German
