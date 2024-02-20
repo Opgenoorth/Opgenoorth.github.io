@@ -68,7 +68,6 @@ Using the genomic data and fossil information we will perform BEAST analyses (Bo
 
 <figure>
   <img src="/assets/img/posts/TransTibet Table 1.jpg" alt="">
-  <figcaption>Figure 3: Development of trans-Tibet disjunct distributional patterns in a hypothetical species group.</figcaption>
 </figure>
 
 # Co-PIs
