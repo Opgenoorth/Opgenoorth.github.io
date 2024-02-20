@@ -71,8 +71,8 @@ Using the genomic data and fossil information we will perform BEAST analyses (Bo
 </figure>
 
 # Co-PIs
-* Dr. Joachim Schmidt (Rostock)
-* Prof. Dr. Kangshan Mao (Chengdu)
+* Dr. Joachim Schmidt, University of Rostock
+* Prof. Dr. Kangshan Mao, Sichuan University | SCU · College of Life Sciences
 
 # To apply
 [Uni-Marburg Job Posting 1](https://stellenangebote.uni-marburg.de/jobposting/9b075fc586afaf84e835df98327741d2caf4540a0)
