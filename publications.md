@@ -13,7 +13,7 @@ Publications
 <li> *Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> Milesi et al. (preprint) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles. Biorxiv.doi: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> *Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
-<li> *Sekely et al. (accepted in Plants, Planet, People). Genomic Responses to Climate: Understanding local adaptation in the Andean tree species <i>Nothofagus pumilio</i> and implications for a changing world</li> 
+<li> *Sekely et al. (2024). Genomic Responses to Climate: Understanding local adaptation in the Andean tree species <i>Nothofagus pumilio</i> and implications for a changing world. Plants, People, Planet. DOI: 10.1002/ppp3.10504</li> 
 <li> Reuber et al. (2024) Topographic barriers drive the pronounced genetic subdivision of a range-limited fossorial rodent.Molecular Ecology. 2024;33:e17271. https://doi.org/10.1111/mec.17271.</li> 
 <li> Zeuss et al. (2023). Nature 4.0: A networked sensor system for integrated biodiversity monitoring. Global Change Biology 30 (1) https://doi.org/10.1111/gcb.17056 </li> 
 <li> Pyhäjärvi et al. (2023) Gene sequence variation data for the publication" Synchronous effective population size changes and genetic stability of forest trees through glacial cycles": version 1.0.</li>
