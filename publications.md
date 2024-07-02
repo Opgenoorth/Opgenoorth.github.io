@@ -13,6 +13,7 @@ Publications
 <li> *Diez-Rodriguez et al. (preprint) Epigenetic variation in the Lombardy poplar along climatic gradients is independent of genetic structure and persists across clonal reproduction. Biorxiv: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> Milesi et al. (preprint) Synchronous effective population size changes and genetic stability of forest trees through glacial cycles. Biorxiv.doi: https://doi.org/10.1101/2023.01.05.522822</li>
 <li> *Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. https://doi.org/10.32942/osf.io/s9rfh</li>
+<li> Peña-Pontón (2024) High-resolution methylome analysis uncovers stress-responsive genomic hotspots and drought-sensitive TE superfamilies in the clonal Lombardy poplar. Journal of Experimental Botany, erae262..</li>
 <li> *Sekely et al. (2024). Genomic Responses to Climate: Understanding local adaptation in the Andean tree species <i>Nothofagus pumilio</i> and implications for a changing world. Plants, People, Planet. DOI: 10.1002/ppp3.10504</li> 
 <li> Reuber et al. (2024) Topographic barriers drive the pronounced genetic subdivision of a range-limited fossorial rodent.Molecular Ecology. 2024;33:e17271. https://doi.org/10.1111/mec.17271.</li> 
 <li> Zeuss et al. (2023). Nature 4.0: A networked sensor system for integrated biodiversity monitoring. Global Change Biology 30 (1) https://doi.org/10.1111/gcb.17056 </li> 
@@ -24,7 +25,6 @@ Publications
 <li> *Martine et al. (2022) The South Asian monsoon maintains the disjunction of Rumex hastatus between the western Himalayas and the Hengduan Mountains, southwest China. Nordic Journal of Botany, 2022(11), e03706</li>
 <li> Zacharias et al. (2022) Genetic basis of growth reaction to drought stress differs in contrasting high‐latitude treeline ecotones of a widespread conifer. Molecular Ecology, 31(20), 5165-5181.</li>
 <li> Asgharinia (2022) Towards Continuous Stem Water Content and Sap Flux Density Monitoring: IoT-Based Solution for Detecting Changes in Stem Water Dynamics. Forests, 13(7), 1040.</li>
-<li> Peña-Pontón (2022) High-resolution methylome analysis in the clonal Populus nigra cv.'Italica'reveals environmentally sensitive hotspots and drought-responsive TE superfamilies. bioRxiv: https://doi.org/10.1101/2022.10.18.512698.</li>
 <li> Mishra et al. (2021) A chromosome-level genome assembly of the European Beech (Fagus sylvatica) reveals anomalies for organelle DNA integration, repeat content and distribution of SNPs. Frontiers in Genetics 12, 2748</li>
 <li> Romera et al. (2021) The new Garba Guracha palynological sequence: Revision and data expansion. Quaternary Vegetation Dynamics-The African Pollen Database, 127-134.</li>
 <li> Reuber et al. (2021) Complete mitochondrial genome of the giant root-rat (Tachyoryctes macrocephalus). Mitochondrial DNA Part B 6 (8), 2191-2193.</li>
